@@ -6,6 +6,18 @@
 
 import Foundation
 
+class Main {
+    init() {
+        executeStringGames()
+    }
+    
+    func executeStringGames() {
+        _ = StringGames()
+    }
+}
+
+_ = Main()
+
 func pairCount(numbers: [Int]) -> Int {
     var noOfPair = 0
     var alreadyChecked = [Int]()

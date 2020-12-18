@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F211F4D2543C55B007EAEEE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F211F4C2543C55B007EAEEE /* main.swift */; };
+		1F46883F258D26AE00B2659F /* StringGames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F46883E258D26AE00B2659F /* StringGames.swift */; };
 		1FA35C31255AE7CB00E7B682 /* variable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA35C30255AE7CB00E7B682 /* variable.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		1F211F492543C55B007EAEEE /* Swift Tour */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift Tour"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F211F4C2543C55B007EAEEE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1F46883E258D26AE00B2659F /* StringGames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringGames.swift; sourceTree = "<group>"; };
 		1FA35C30255AE7CB00E7B682 /* variable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = variable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 			children = (
 				1F211F4C2543C55B007EAEEE /* main.swift */,
 				1FA35C30255AE7CB00E7B682 /* variable.swift */,
+				1F46883E258D26AE00B2659F /* StringGames.swift */,
 			);
 			path = "Swift Tour";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F211F4D2543C55B007EAEEE /* main.swift in Sources */,
+				1F46883F258D26AE00B2659F /* StringGames.swift in Sources */,
 				1FA35C31255AE7CB00E7B682 /* variable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
